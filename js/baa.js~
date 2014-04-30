@@ -1,0 +1,4 @@
+$('.subcomittees button').hover(
+       function(){ $(this).addClass('btn-lg'), alert('hi'); },
+       function(){ $(this).removeClass('btn-lg') }
+)

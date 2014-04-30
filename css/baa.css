@@ -1,0 +1,90 @@
+/* Footer */
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 20px;
+  background: #222;
+  color: #FFF;
+  padding-bottom: 10px;
+  font-weight: 300;
+}
+
+/* intro */
+
+.big-description {
+  font-size: 28px;
+  margin: auto;
+  font-weight: 300;
+  text-align: center;
+}
+
+.big-title {
+  font-size:55px;
+  font-weight:300;
+  text-align: right;
+  padding-bottom: 30px;
+}
+
+section.intro {
+  padding-right: 40px;
+  background-image: url('/img/baa/logo.jpg');
+  background-repeat: no-repeat;
+  background-size: 250px 250px;
+  background-position: center left;
+  padding-left: 230px;
+  padding-top: 0px;
+}
+
+/* subcommittees */
+
+.subcomittees {
+  text-align: center;
+  height: 120px;
+  line-height: 60px;
+}
+
+.subcomittees button {
+  width: 24%;
+  margin-top:auto;
+  margin-bottom: auto;
+}
+
+/* events */
+
+.event-image {
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.event {
+  text-align: center;
+}
+
+.event p {
+  text-align: left;
+}
+
+.inside-bitcoins-bg {
+  background-color: #630;
+}
+
+.inside-bitcoins-logo {
+  margin: 20px 0px 30px 0px;
+}
+
+/* other */
+
+section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.affiliates {
+  max-width: 700px;
+  margin: auto;
+}
+
+.affiliates img {
+  width: 100%;
+}
