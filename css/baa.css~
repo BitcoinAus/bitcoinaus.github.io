@@ -28,7 +28,7 @@ footer {
 
 section.intro {
   padding-right: 40px;
-  background-image: url('https://bitcoin.asn.au/images/me.jpg');
+  background-image: url('/img/baa/logo.jpg');
   background-repeat: no-repeat;
   background-size: 250px 250px;
   background-position: center left;
@@ -45,7 +45,7 @@ section.intro {
 }
 
 .subcomittees button {
-  width: 24%;
+  width: 49%;
   margin-top:auto;
   margin-bottom: auto;
 }
@@ -71,6 +71,28 @@ section.intro {
 
 .inside-bitcoins-logo {
   margin: 20px 0px 30px 0px;
+}
+
+/* board */
+
+.board > .row {
+  padding: 20px 0px 20px 0px;
+}
+
+.board-name {
+  font-size: 28px;
+  font-weight: 300;
+  margin-bottom: 0px;
+}
+
+.board-position {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.board-member > img {
+  float: left;
+  padding: 0px 10px 10px 0px;
 }
 
 /* other */
