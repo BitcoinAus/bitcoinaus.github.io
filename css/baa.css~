@@ -41,7 +41,7 @@ section.intro .logo-bg {
 }
 
 section.intro div.logo {
-  
+  text-align: center;
 }
 
 /* subcommittees */
