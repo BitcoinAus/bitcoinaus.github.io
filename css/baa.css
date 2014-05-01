@@ -22,8 +22,15 @@ footer {
   text-align: center;
 }
 
-.big-title {
+.bigger-title {
   font-size:55px;
+  font-weight:300;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.big-title {
+  font-size:45px;
   font-weight:300;
   text-align: center;
   padding-bottom: 30px;
