@@ -1,3 +1,5 @@
-name: Your New Jekyll Site
+name: The Bitcoin Association of Australia
 markdown: redcarpet
 pygments: true
+permalink: /blog/:year/:month/:day/:title
+

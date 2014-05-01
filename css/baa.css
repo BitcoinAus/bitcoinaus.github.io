@@ -25,18 +25,23 @@ footer {
 .big-title {
   font-size:55px;
   font-weight:300;
-  text-align: right;
+  text-align: center;
   padding-bottom: 30px;
 }
 
 section.intro {
-  padding-right: 40px;
-  background-image: url('/img/baa/logo.jpg');
-  background-repeat: no-repeat;
-  background-size: 250px 250px;
-  background-position: center left;
-  padding-left: 230px;
   padding-top: 0px;
+}
+
+section.intro .logo-bg {
+  background-image: url('/img/baa/logo.jpg');
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-size: 180px 180px;
+}
+
+section.intro div.logo {
+  text-align: center;
 }
 
 /* subcommittees */
