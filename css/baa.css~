@@ -13,6 +13,10 @@ footer {
   font-weight: 300;
 }
 
+#copyright {
+  padding: 0px 20px 0px 20px;
+}
+
 /* intro */
 
 .big-description {
@@ -22,8 +26,15 @@ footer {
   text-align: center;
 }
 
-.big-title {
+.bigger-title {
   font-size:55px;
+  font-weight:300;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.big-title {
+  font-size:45px;
   font-weight:300;
   text-align: center;
   padding-bottom: 30px;
@@ -125,4 +136,8 @@ section {
 
 .affiliates img {
   width: 100%;
+}
+
+.donation-qr {
+  margin: auto;
 }
