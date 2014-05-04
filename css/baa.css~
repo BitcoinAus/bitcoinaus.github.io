@@ -2,6 +2,10 @@ body {
   padding-bottom: 70px;
 }
 
+.center {
+  text-align: center;
+}
+
 /* Footer */
 
 footer {
@@ -122,6 +126,13 @@ section.intro img.logo {
   padding: 0px 10px 10px 0px;
 }
 
+/* membership */
+
+#join-button {
+  font-size: 30px;
+  margin: 10px 0px 10px 0px;
+}
+
 /* other */
 
 section {
@@ -139,5 +150,5 @@ section {
 }
 
 .donation-qr {
-  margin: auto;
+  text-align: center;
 }
