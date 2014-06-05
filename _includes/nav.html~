@@ -22,12 +22,12 @@
           <li><a href="/contact.html">Contact</a></li>
         </ul>
       </li>
-      <li><a href="/donate.html">Donate</a></li>
+      <li><a href="/contact.html">Donate</a></li>
       <li><a href="/blog.html">Blog</a></li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
-      <li><a href="https://bitcoinfoundation.org/forum/index.php?/forum/24-australia/" target="_blank">Forum</a></li>
-      <li><a href="//bitcoin.org.au">bitcoin.org.au</a></li>
+      <!-- <li><a href="https://bitcoinfoundation.org/forum/index.php?/forum/24-australia/" target="_blank">Forum</a></li>
+      <li><a href="//bitcoin.org.au">bitcoin.org.au</a></li> -->
     </ul>
   </div>
 </div>
