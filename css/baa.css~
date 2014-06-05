@@ -86,6 +86,7 @@ section.intro img.logo {
 .event-image {
   padding: 20px;
   margin-bottom: 10px;
+  max-width: 500px;
 }
 
 .event {
@@ -130,7 +131,7 @@ section.intro img.logo {
 
 #join-button {
   font-size: 30px;
-  margin: 10px 0px 10px 0px;
+  margin: 20px 0px 20px 0px;
 }
 
 /* other */
