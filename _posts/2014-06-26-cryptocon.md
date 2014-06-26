@@ -15,7 +15,7 @@ Speakers will include CEOs and founders of numerous Bitcoin organizations: excha
 
 There is a delegate registration deal for Association members.
 
-Register now, using reference code 1349477, for the half-price VC/Start-up rate of $500 + GST (Sydney) or US$500 (Singapore).
+For Association members, there is a coupon code for the half-price VC/Start-up rate of $500 + GST (Sydney) or US$500 (Singapore). Please contact [the board](mailto:board@bitcoin.asn.au?subject=Cryptocon Discount Code&body=Hi, Could you please send through the Cryptocon discount code? Cheers) for details.
 
 You can sign up on the [website](http://www.cryptocon.net/) or by contacting Elliot Baker: [elliot.baker@informa.com](mailto:elliot.baker@informa.com). 
 
