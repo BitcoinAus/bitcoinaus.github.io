@@ -1,4 +1,4 @@
-# bitcoinaus.github.io
+# bitcoin.asn.au
 Offical website for the Bitcoin Association of Australia 
 
 ## About
